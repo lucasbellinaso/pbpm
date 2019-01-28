@@ -10,8 +10,8 @@ Authors:  Lucas Vizzotto Bellinaso,  Edivan Carvalho, Leandro Michels
 
 
 Stored on GitHub: https://github.com/lucasbellinaso/pbpm
-<br>Run on Binder: https://mybinder.org/v2/gh/lucasbellinaso/pbpm/master
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucasbellinaso/pbpm/master)
+<br>Run on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucasbellinaso/pbpm/master) https://mybinder.org/v2/gh/lucasbellinaso/pbpm/master
+
 
 
 
