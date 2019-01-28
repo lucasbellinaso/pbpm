@@ -1,4 +1,4 @@
-<a href="http://www.inri.ufsm.br"> <img src="attachment:logos.jpg" width="400" align="right"> </a>
+<a href="http://www.inri.ufsm.br"> <img src="logos.jpg" width="400" align="right"> </a>
 
 # Price-Based Power Management (PBPM)
 
