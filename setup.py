@@ -1,2 +1,2 @@
-pip install ipywidgets
-pip install numpy
+pip install -e ipywidgets
+pip install -e numpy
