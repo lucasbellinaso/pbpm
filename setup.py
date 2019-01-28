@@ -1,2 +1,1 @@
-pip install -e ipywidgets
-pip install -e numpy
+pip install -r requirements.txt
