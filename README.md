@@ -13,6 +13,7 @@ Stored on GitHub: https://github.com/lucasbellinaso/pbpm
 <br>Run on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucasbellinaso/pbpm/master) https://mybinder.org/v2/gh/lucasbellinaso/pbpm/master
 
 
-PhD Thesis: goo.gl/2dRzMx
-Previous paper:<br> <a href="https://doi.org/10.1049/iet-rpg.2015.0472">
-    L.V. Bellinaso, C. D. Schwertner, L. Michels. Price-based power management of off-grid photovoltaic systems with centralised dc bus. IET Renewable Power Generation. v.10. issue 8. pp 1132-1139. sept 2016.  </a>
+Previous publication:<br> <a href="https://doi.org/10.1049/iet-rpg.2015.0472">
+    L.V. Bellinaso, C. D. Schwertner, L. Michels. Price-based power management of off-grid photovoltaic systems with centralised dc bus. IET Renewable Power Generation. v.10. issue 8. pp 1132-1139. sept 2016.  </a> <br>
+   <a href="goo.gl/2dRzMx">
+   L.V. Bellinaso. Inversores fotovoltaicos conectados à rede com armazenamento de energia - classificação, recomendações técnicas e gerenciamento. (PhD Thesis) Electrical Engineering Graduate Program. Federal University of Santa Maria, 2017.</a>
