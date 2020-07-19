@@ -3,7 +3,7 @@
 # Price-Based Power Management (PBPM)
 
 
-Authors:  Lucas Vizzotto Bellinaso,  Edivan Carvalho, Leandro Michels
+Authors:  Lucas Vizzotto Bellinaso,  Edivan Carvalho, Rafael Cardoso, Leandro Michels
 <br>Grupo de Eletrônica de Potência e Controle
 <br>Instituto de Redes Inteligentes
 <br>Universidade Federal de Santa Maria, RS, Brasil
