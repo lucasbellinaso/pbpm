@@ -18,7 +18,7 @@ Stored on GitHub: https://github.com/lucasbellinaso/pbpm
 ### Element Configuration
 ![Element Configuration](Screen_Configuration.jpg)
 
-### Graphical final price configuration
+### Final price settings
 ![Prices](Screen_Prices.jpg)
 
 ### Calculated PRMs
